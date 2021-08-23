@@ -1,0 +1,403 @@
+{   "title":{ "title": "Hs-developer"},
+    "headerPart2":{
+        "btn1": "Today's Deals",
+        "btn2": "Electronics",
+        "btn3": "Food & Grocery",
+        "btn4": "Prime",
+        "btn5": "Buy Again",
+        "btn6": "Health & Personal Care"
+    },
+    "siteBerButton":{
+        "btnAll": "Popular Categories",
+        "btn1": "Man Fashion",
+        "btn2": "Women Fashion",
+        "btn3": "Electronics",
+        "btn4": "Health & Care",
+        "btn5": "Beauty & Acc",
+        "btn6": "Food & Beverage",
+        "btn7": "Animals & Food",
+        "btn8": "Home & Garden",
+        "btn9": "Baby & Toys",
+        "btn10": "Others Types"
+        
+    },
+    "settings":[{
+        "id":"update",
+        "logo":["/images/setting/logo.png"],
+        "icon":["/images/setting/logo.png"],
+        "primeimage":["/images/setting/prime.png"],
+        "country":"Bangladesh",
+        "currency":"USD",
+        "normalPrice":20,
+        "urgentPrice":25,
+        "shippingNormal":"2 days",
+        "shippingUrgent":"1 days",
+        "footerButton1": "Advertising",
+        "footerButton2": "Business",
+        "footerButton3": "About",
+        "footerButton4": "Privacy",
+        "footerButton5": "Terms",
+        "footerButton6": "Settings"
+    }],
+    "loginPage":{
+        "title": "Log in to Hs-eshop",
+        "title2": "Get your free account",
+        "singUpText": "Don't have an ESHOP account?",
+        "singUpText2": "I have en Account"
+    },
+    "heroBanner":
+       [ {   "id": "updatehero",
+            "image":["/images/banner/banner01.jpg","/images/banner/banner02.jpg","/images/banner/banner03.jpg" ]
+        }],
+    "bannerPart2":
+          [ {
+            "id": "banner2",
+            "image":["/images/banner/banner04.jpg","/images/banner/banner05.jpg","/images/banner/banner06.jpg" ]
+            }],
+    "bannerPart3":
+          [{
+            "id": "banner3",
+            "image":["/images/banner/banner07.jpg","/images/banner/banner08.jpg","/images/banner/banner09.jpg" ]
+          }],
+    "bannerPart4":
+       [ {
+            "id": "banner4",
+            "image":["/images/banner/banner10.jpg","/images/banner/banner11.jpg","/images/banner/banner12.jpg" ]
+         }],
+         "checkoutBanner":
+         [ {
+              "id": "checkout",
+              "image":["/images/banner/banner13.jpg","/images/banner/banner01.jpg","/images/banner/banner03.jpg" ]
+           }],
+           "categoryBanner":
+           [ {
+                "id": "category",
+                "image":["/images/banner/banner14.jpg","/images/banner/banner09.jpg","/images/banner/banner05.jpg" ]
+             }],
+             "categoryBanner2":
+             [ {
+                  "id": "category",
+                  "image":["/images/banner/banner15.jpg","/images/banner/banner16.jpg","/images/banner/banner10.jpg" ]
+               }],
+    "categoryshow":{
+        "arrival":[{
+            "id":"category1",
+            "title":"New Arrivals",
+            "image": ["/images/Categories/arrival1.png","/images/Categories/arrival2.png","/images/Categories/arrival3.png"],
+            "discount": 50
+        }],
+        "Topranked":[{
+            "id":"category2",
+            "title":"Top-ranked Products",
+            "image": ["/images/Categories/fruit.png","/images/Categories/pineapple.png","/images/Categories/f35.png"],
+            "discount": 80
+        }],
+        "Personal":[{
+            "id":"category3",
+            "title":"Personal Protective Equipment",
+            "image":["/images/Categories/beg.png","/images/Categories/pc.png","/images/Categories/watch01.png"],
+            "discount": 10
+        }],
+        "Dropshipping":[{
+            "id":"category4",
+            "title":"Dropshipping",
+            "image": ["/images/Categories/jaket.png","/images/Categories/hometable.png","/images/Categories/sofa.png"],
+            "discount": 20
+        }],
+        "Global":[{
+            "id":"category5",
+            "title":"Global Original Sources",
+            "image": ["/images/Categories/headphone.png","/images/Categories/homesofa.png","/images/Categories/manshoz.png"],
+            "discount": 80
+        }],
+        "TrueView":[{
+            "id":"category6",
+            "title":"True View",
+            "image":["/images/Categories/woman.png","/images/Categories/suitman.png","/images/Categories/graywoman.png"],
+             "discount": 40
+        }]
+    },
+    "products":
+       [ {
+            "id":0,
+            "title": "Mens Cotton Jacket",
+            "price":12,
+            "discountPrice":5,
+            "category": "Mans Cloths",
+            "images": ["/images/product/tshirt1.jpg","/images/product/tshirt2.jpg","/images/product/tshirt3.jpg","/images/product/tshirt4.jpg"],
+            "quantity":1,
+            "type": "men",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day."
+        },
+        {
+            "id":2,
+            "title": "Mens Casual Slim Fit",
+            "price":12,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/tshirt5.jpg","/images/product/tshirt6.jpg","/images/product/tshirt7.jpg","/images/product/tshirt8.jpg"],
+            "quantity":1,
+            "type": "men",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description."
+        },
+        {
+            "id":3,
+            "title": "Essentials Men's 2-Pack Slim-Fit Short-Sleeve Crewneck T-Shirt",
+            "price":12,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/tshirt9.jpg","/images/product/tshirt10.jpg","/images/product/tshirt11.jpg","/images/product/tshirt12.jpg"],
+            "quantity":1,
+            "type": "men",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Solids: 100% Cotton; Heathers: 60% Cotton, 40% Polyester, Imported, Machine Wash,Fits close to the body for fitted, slim silhouette"
+        },
+        {
+            "id":4,
+            "title": "Hanes Men's Essentials Short Sleeve T-Shirt Value Pack (4-Pack)",
+            "price":12,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/tshirt13.jpg","/images/product/tshirt14.jpg","/images/product/tshirt15.jpg","/images/product/tshirt16.jpg"],
+            "quantity":1,
+            "type": "men",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"100% Cotton Assortment of Black, Navy, Light Steel and Smoke t-shirts (1 each color.),Super Soft & Comfortable"
+        },
+        {
+            "id":5,
+            "title": "prAna Women's Nieves Tank",
+            "price":122,
+            "discountPrice":40,
+            "category": "woman",
+            "images": ["/images/product/womantshirt.jpg","/images/product/womantshirt1.jpg","/images/product/womantshirt2.jpg","/images/product/womantshirt3.jpg"],
+            "quantity":1,
+            "type": "women",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"100% Other Fibers Imported Pull On closure Machine Wash Organic cotton/tencel Modal/tencel Local blend woven stripe gauze Woven tank with center front and front/back yoke pintucking panels Center front button closure Relaxed fit"
+        },
+        {
+            "id":6,
+            "title": "Marmot Womens Bivouac Short-Sleeve T-Shirt",
+            "price":22,
+            "discountPrice":15,
+            "category": "man",
+            "images":["/images/product/womantshirt4.jpg","/images/product/womantshirt5.jpg","/images/product/womantshirt6.jpg","/images/product/womantshirt7.jpg"],
+            "quantity":1,
+            "type": "women",
+            "companyName": "Hs-Developer",
+            "rating":4,
+            "instock":0,
+            "description":"100% Cotton Imported ORGANIC COTTON T-SHIRT | Organic cotton for comfort and breathability PRINTED WITH WATER-BASED INK | Graphic printed with eco-conscious water-based ink CREW NECK | Crew-neck style is easy to layer"
+        },
+        {
+            "id":7,
+            "title": "prAna Women's Foundation Short Sleeve V-Neck",
+            "price":55,
+            "discountPrice":35,
+            "category": "man",
+            "images": ["/images/product/womantshirt8.jpg","/images/product/womantshirt9.jpg","/images/product/womantshirt10.jpg","/images/product/womantshirt11.jpg"],
+            "quantity":1,
+            "type": "women",
+            "companyName": "Hs-Developer",
+            "rating":4,
+            "instock":2520,
+            "description":"95% Modal, 5% Spandex Imported Lightweight stretch TENCEL Modal jersey Short sleeved v-neck pocket tee silhouette with back seam details Standard fit Slim fit"
+        },
+        {
+            "id":8,
+            "title": "Fossil Men's Townsman Stainless Steel and Leather Casual Quartz Chronograph Watch",
+            "price":132,
+            "discountPrice":35,
+            "category": "man",
+            "images":  ["/images/product/watch.jpg","/images/product/watch1.jpg","/images/product/watch2.jpg","/images/product/watch3.jpg"],
+            "quantity":1,
+            "type": "beauty",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Imported Fossil is inspired by American creativity and ingenuity. Bringing new life into the watch and leathers industry by making quality, fashionable accessories that are both fun and accessible. Taking our cues from 1960s-era architectural and automotive design, our Townsman has a clean, symmetrical style and elevated construction. Elegantly vaulted hands, beveled indices and a shapely case make this timepiece a classic for decades to come. Case size: 44MM; Band size: 22MM; Quartz/Chrono movement; hardened minderal crystal lens; imported Attachment Material/Color: Leather/Brown; Closure type: Single Prong Strap Buckle; Interchangeable with all Fossil 22MM bands Customize your watch with complimentary engraving at a local Fossil store. Engraving is available at participating U.S. and Canadian full-priced and outlet Fossil stores. This service is not applicable on all accessories."
+        },
+        {
+            "id":9,
+            "title": "Adidas Men's Superlite Cap",
+            "price":8,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/cap.jpg","/images/product/cap1.jpg","/images/product/cap2.jpg","/images/product/cap3.jpg"],
+            "quantity":1,
+            "type": "men",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"87% Polyester, 13% Spandex Imported Hook and Loop closure Hand Wash Only Made from recycled material. Lightweight 6-panel cap with premium 3d weld badge of sport logo. Mesh provides ultimate air flow and moisture-wicking."
+        },
+        {
+            "id":10,
+            "title": "GoPro MAX — Waterproof 360 + Traditional Camera with Touch Screen Spherical 5.6K30 HD Video 16.6MP 360 Photos 1080p Live Streaming Stabilization",
+            "price":452,
+            "discountPrice":45,
+            "category": "man",
+            "images":  ["/images/product/gopro.jpg","/images/product/gopro1.jpg","/images/product/gopro2.jpg","/images/product/gopro3.jpg"],
+            "quantity":1,
+            "type": "electronics",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Three Cameras in One: Maximize your creative freedom. With MAX you can shoot traditional Hero-style video and photos or capture immersive 360 footage. Vlog to the max with shotgun-mic performance and a front-facing screen Max HyperSmooth: MAX gives you unbreakable stabilization by using 180-degree capture as the ultimate buffer Live Streaming in 1080p: Shoot in HERO mode and share while you’re there. Live stream in 1080p on social, get Max HyperSmooth stabilization as you broadcast via the GoPro app and save footage to your SD card to check out later Horizon Leveling: In HERO mode, game-changing horizon leveling gives you that silky-smooth cinematic look whether you're getting sideways, flipping through the air or chasing your kids PowerPano: Pano without the pan. Take incredible 270-degree distortion-free panoramic photos without having to scan the horizon. Take PowerPano selfies, action shots and vertical pics—all with a level horizon Premium 360 + Stereo Audio: Six mics capture true-to-life 360 audio and deliver the best stereo sound ever from a GoPro Digital Lenses: Choose from four digital lenses in HERO mode to get the shot. Capture video and photos in Narrow, Linear, Wide and Max SuperView—our widest view yet"
+        },
+        {
+            "id":11,
+            "title": "Cat Bed for Indoor Cats - Cat Cave Bed Cat House Cat Tent with Removable Washable Cushioned Pillow, Soft and Self Warming Kitten beds,Cat Beds & Furniture, Pet Bed WINDRACING",
+            "price":85,
+            "discountPrice":15,
+            "category": "man",
+            "images":  ["/images/product/animal.jpg","/images/product/animal1.jpg","/images/product/animal2.jpg","/images/product/animal3.jpg"],
+            "quantity":1,
+            "type": "animals",
+            "companyName": "Hs-Developer",
+            "rating":2,
+            "instock":220,
+            "description":"Material :The calming cat bed is made of durable material,Resistance to bite and catch ,The super soft surface of the faux fur is good for keeping warm, providing a cozy and comfortable home for your pet.Non-Slip Bottom fabric is made of chew proof material."
+        },
+        {
+            "id":12,
+            "title": "Infantino Flip Advanced 4-in-1 Carrier - Ergonomic, convertible, face-in and face-out front and back carry for newborns and older babies 8-32 lbs",
+            "price":72,
+            "discountPrice":45,
+            "category": "Baby Care",
+            "images": ["/images/product/baby.jpg","/images/product/baby1.jpg","/images/product/baby2.jpg","/images/product/baby3.jpg"],
+            "quantity":1,
+            "type": "baby",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Infantino Flip Advanced 4-in-1 Carrier - Ergonomic, convertible, face-in and face-out front and back carry for newborns and older babies 8-32 lbs"
+        },
+        {
+            "id":13,
+            "title": "New York Biology Dead Sea Mud Mask for Face and Body - Spa Quality Pore Reducer for Acne, Blackheads and Oily Skin, Natural Skincare for Women, Men - Tightens Skin for A Healthier Complexion - 8.8 oz",
+            "price":25,
+            "discountPrice":12,
+            "category": "Skin care",
+            "images": ["/images/product/cream.jpg","/images/product/cream1.jpg","/images/product/cream2.jpg","/images/product/cream3.jpg"],
+            "quantity":1,
+            "type": "beauty",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"BEST HOLIDAY GIFT GUIDE: works for all skin types, including dry, normal, oily, combination, sensitive, and irritated. This daily acne treatment has been designed to be highly effective yet gentle enough for everyday use and is a great gift for the holidays 2020. MINERAL-INFUSED Clarifying Mud Mask is based on an advanced formula composed of Dead Sea mineral mud that gently purifies and cleans clogged pores. Combined with an herbal complex of Aloe-Vera, Calendula Oil, Vitamin E, Sunflower Seed and Jojoba Oil. PURE DEAD SEA MUD helps to effectively cleanse the skin and provide a soothing sensation. Rich in minerals, the pure mud aids skin renewal, creating a gentle exfoliation effect that removes excess oil, toxins, and dead skin cells for a softer feel and radiant glow. REDUCES PORES & ABSORBS EXCESS OIL our Spa Quality Mud removes dead skin cells, dirt and toxins to reveal fresh, soft skin. Mud treatment is also known to stimulate blood microcirculation and refines texture. OUR DEAD SEA FACIAL MASK is made using the Highest Quality Ingredients. It does not contain alcohol, parabens or sulfates and is Cruelty Free"
+        },
+        {
+            "id":14,
+            "title": "Chef Boyardee Beef in Tomato & Meat Sauce Ravioli, 7.5 Oz. (Pack of 12)",
+            "price":12,
+            "discountPrice":5,
+            "category": "Food",
+            "images": ["/images/product/food.jpg","/images/product/food1.jpg","/images/product/food2.jpg","/images/product/food3.jpg"],
+            "quantity":1,
+            "type": "food",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Chef Boyardee Beef Ravioli in tomato and meat sauce is a fun meal for the kids, and is ready to serve in less than one minute"
+        },
+        {
+            "id":15,
+            "title": "Mucinex Maximum Strength 12 Hour Chest Congestion Medicine, Chest Congestion Relief, Expectorant, Lasts 12 Hours, Powerful Symptom Relief, Extended-Release Bi-Layer Tablets, 28 Count (Pack of 3)",
+            "price":42,
+            "discountPrice":11,
+            "category": "health care",
+            "images":  ["/images/product/health.jpg","/images/product/health1.jpg","/images/product/health2.jpg","/images/product/health3.jpg"],
+            "quantity":1,
+            "type": "health",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Mucinex Maximum Strength 12 Hour Chest Congestion Medicine, Chest Congestion Relief, Expectorant, Lasts 12 Hours, Powerful Symptom Relief, Extended-Release Bi-Layer Tablets, 28 Count (Pack of 3)"
+        },
+        {
+            "id":16,
+            "title": "Christopher Knight Home Vita Tufted Microfiber Sofa with Scroll Arms, Navy Blue, Dark Brown",
+            "price":100,
+            "discountPrice":10,
+            "category": "man",
+            "images":  ["/images/product/home.jpg","/images/product/home1.jpg","/images/product/home2.jpg","/images/product/home3.jpg"],
+            "quantity":1,
+            "type": "home",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"CHESTERFIELD STYLE: Designed with the traditional Chesterfield sofa in mind, this piece hits all the key elements, with deep button tufting, nailhead accents, scrolled arms, and turned legs."
+        },
+        {
+            "id":17,
+            "title": "2021 HP Stream 14inch HD Display, Intel Celeron N4020 Dual-Core Processor, 4GB DDR4 Memory, 128 GB storage (64GB eMMC+64GB TGC Flash Memory), HDMI, WiFi, Webcam, Bluetooth,1-Year Microsoft 365 Win10 S",
+            "price":812,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/hplaptop1.jpg","/images/product/hplaptop.jpg","/images/product/hplaptop2.jpg","/images/product/hplaptop3.jpg"],
+            "quantity":1,
+            "type": "electronics",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":210,
+            "description":"2021 HP Stream 14inch HD Display, Intel Celeron N4020 Dual-Core Processor, 4GB DDR4 Memory, 128 GB storage (64GB eMMC+64GB TGC Flash Memory), HDMI, WiFi, Webcam, Bluetooth,1-Year Microsoft 365 Win10 S"
+        },
+        {
+            "id":18,
+            "title": "2019 Apple MacBook Pro (16-inch, 16GB RAM, 512GB Storage, 2.6GHz Intel Core i7) - Space Gray",
+            "price":1952,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/mac.jpg","/images/product/mac1.jpg","/images/product/mac2.jpg","/images/product/mac3.jpg"],
+            "quantity":1,
+            "type": "electronics",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":80,
+            "description":"Ninth-generation 6-Core Intel Core i7 Processor Stunning 16-inch Retina Display with True Tone technology Touch Bar and Touch ID AMD Radeon Pro 5300M Graphics with GDDR6 memory Ultrafast SSD Intel UHD Graphics 630 Six-speaker system with force-cancelling woofers"
+        },
+        {
+            "id":19,
+            "title": "OtterBox Commuter Series Case for iPhone 12 & iPhone 12 Pro - Black",
+            "price":12,
+            "discountPrice":5,
+            "category": "man",
+            "images": ["/images/product/iphon.jpg","/images/product/iphon1.jpg","/images/product/iphon2.jpg","/images/product/iphon3.jpg"],
+            "quantity":1,
+            "type": "electronics",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":2520,
+            "description":"Compatible with iphone 12 & iphone 12 pro Lasting antimicrobial technology helps protect case exterior against many common bacteria it does not protect you or the screen Case is infused with silver-based additive that continually blocks microbial growth Thin profile slips in and out of pockets with soft inner and hard outer layers absorb and deflect impacts, open access to ports and speakers Includes OtterBox limited lifetime warranty"
+        },
+        {
+            "id":20,
+            "title": "Sither 13 Pcs Women Rings Set Knuckle Rings Gold Bohemian Rings for Girls Vintage Gem Crystal Rings Joint Knot Ring Sets for Teens Party Daily Fesvital Jewelry Gift(style3)",
+            "price":350,
+            "discountPrice":50,
+            "category": "man",
+            "images": ["/images/product/ring.jpg","/images/product/ring1.jpg","/images/product/ring2.jpg","/images/product/ring3.jpg"],
+            "quantity":1,
+            "type": "beauty",
+            "companyName": "Hs-Developer",
+            "rating":5,
+            "instock":20,
+            "description":"Sither 13 Pcs Women Rings Set Knuckle Rings Gold Bohemian Rings for Girls Vintage Gem Crystal Rings Joint Knot Ring Sets for Teens Party Daily Fesvital Jewelry Gift(style3)"
+        }
+    ]
+   
+}
