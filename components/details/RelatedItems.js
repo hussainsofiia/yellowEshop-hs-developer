@@ -58,7 +58,7 @@ function RelatedItems({id,title,price,discountPrice,description,category,image,t
 
 
     return (
-        <div   className="sm:flex-grow overflow-hidden sm:w-3/4 relative flex flex-col m-5 bg-white z-30 shadow-md sm:p-10">
+        <div   className="sm:flex-grow overflow-hidden  relative flex flex-col m-5 bg-white z-30 shadow-md sm:p-10">
 
         <p className="absolute top-2 right-2 text-xs italic text-gray-400">{category}</p>
         <Image src={image[0]} height={100} width={100} objectFit="contain" 

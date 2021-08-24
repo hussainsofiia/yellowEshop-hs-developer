@@ -11,7 +11,7 @@ function RelatedPagination({qtytoogle,toogle,settings}) {
     const [data, setData] = useState([]);
     const [loading,setLoading] = useState(false);
     const [currentPage, setcurrentPage] = useState(1);
-     const [itemsPerPage, setitemsPerPage] = useState(4);
+     const [itemsPerPage, setitemsPerPage] = useState(3);
     const [pageNumberLimit, setpageNumberLimit] = useState(5);
     const [maxPageNumberLimit, setmaxPageNumberLimit] = useState(5);
      const [minPageNumberLimit, setminPageNumberLimit] = useState(0);
@@ -94,7 +94,7 @@ console.log(currentItems);
     return (
         <div className=" ">
              <>
-            <div className="sm:flex sm:flex-row ">
+            <div className=" grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
      
       {currentItems && currentItems.map((post)=>(
 
